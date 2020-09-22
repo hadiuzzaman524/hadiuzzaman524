@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[linked in](https://www.linkedin.com/in/md-hadiuzzaman-72613a1a3/)
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ... I am half finish
+- ⚡ Fun fact: ... 
 -->
