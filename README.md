@@ -10,6 +10,8 @@
 - 📫 How to reach me **hadiuzzaman.cse.bd@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-TD4UXIfhKlC30brcQn1whOMAkRPu6Ui/view?usp=sharing](https://drive.google.com/file/d/1-TD4UXIfhKlC30brcQn1whOMAkRPu6Ui/view?usp=sharing)
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
