@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Hadiuzzaman</h1>
 <h3 align="center">Mobile application developer & problem solver</h3>
 
-- 🌱 I’m currently learning **Flutter, Machine Learning**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://md-hadi.web.app/)
 
