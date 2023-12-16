@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Hadiuzzaman</h1>
 <h3 align="center">Mobile application developer & problem solver</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://md-hadi.web.app/)
 
