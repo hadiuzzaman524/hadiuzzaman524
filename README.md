@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://md-hadi.web.app/)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** , **Clean Architecture** , **DDD**
 
 - 📫 How to reach me **hadiuzzaman.cse.bd@gmail.com**
 
