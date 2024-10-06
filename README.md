@@ -11,10 +11,9 @@
 
 - 📄 Know about my experiences? [View My Resume](https://drive.google.com/file/d/1MSi0XZoXStX1TvqP9NUBgbJOKdvaFqpP/view?usp=share_link)
 
- **Tools and Technology**
+ **My Skill**
 
 [![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,firebase,python,tensorflow,postman,git,js,react,figma,androidstudio,vscode)](https://www.sandromaglione.com)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadiuzzaman524&show_icons=true&locale=en&layout=compact" alt="hadiuzzaman524" /></p>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="400" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="400" />
   
