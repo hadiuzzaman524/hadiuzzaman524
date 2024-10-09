@@ -10,7 +10,7 @@
 - 📫 How to reach me **hadiuzzaman.cse.bd@gmail.com**
 
 - 📄 Know about my experiences? [**View My Resume**](https://drive.google.com/file/d/1MSi0XZoXStX1TvqP9NUBgbJOKdvaFqpP/view?usp=share_link)
-- 🤓 Interested to learn something new? [**Read my blog**](https://medium.com/@md-hadi)
+- 🤓 Interested to learn something new? [**Read My Blog**](https://medium.com/@md-hadi)
 
  **My Skill**
 
