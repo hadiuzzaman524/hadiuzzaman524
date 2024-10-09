@@ -3,13 +3,14 @@
 
 - 🌱 I’m currently learning **Compossible Architecture**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://md-hadi.web.app/)
+- 👨‍💻 Some of my projects are available at [Portfolio](https://md-hadi.web.app/)
 
 - 💬 Ask me about **Flutter**, **SwiftUI**, **Clean Architecture**, **DDD**
 
 - 📫 How to reach me **hadiuzzaman.cse.bd@gmail.com**
 
 - 📄 Know about my experiences? [View My Resume](https://drive.google.com/file/d/1MSi0XZoXStX1TvqP9NUBgbJOKdvaFqpP/view?usp=share_link)
+- 🤓 Interested to learn something new? [Read my blog](https://medium.com/@md-hadi)
 
  **My Skill**
 
