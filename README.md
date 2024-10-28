@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **hadiuzzaman.cse.bd@gmail.com**
 
+- 💬 Write me on [**Telegram**](https://t.me/hadi65)
+
+- 💬 Write me on [**WhatsApp**](https://wa.me/qr/5O6CHVOXWYJZF1)
+
 - 📄 Know about my experiences? [**View My Resume**](https://drive.google.com/file/d/1MSi0XZoXStX1TvqP9NUBgbJOKdvaFqpP/view?usp=share_link)
 - 🤓 Interested to learn something new? [**Read My Blog**](https://medium.com/@md-hadi)
 
