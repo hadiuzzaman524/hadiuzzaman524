@@ -13,7 +13,7 @@
 
 - 💬 Write me on [**WhatsApp**](https://wa.me/qr/5O6CHVOXWYJZF1)
 
-- 📄 Know about my experiences? [**View My Resume**](https://drive.google.com/file/d/1MSi0XZoXStX1TvqP9NUBgbJOKdvaFqpP/view?usp=share_link)
+- 📄 Know about my experiences? [**View My Resume**](https://github.com/hadiuzzaman524/hadiuzzaman524/blob/master/Md%20Hadiuzzaman.pdf)
 - 🤓 Interested to learn something new? [**Read My Blog**](https://medium.com/@md-hadi)
 
  **My Skill**
